@@ -1,0 +1,6 @@
+Name: philip omodiagbe
+Matric Number: 22CH032051
+Machine Learning Algorithm Used: Random Forest Classifier
+Model persistence method used: Pickle
+Live URL of the hosted application: 
+GitHub repository link: https://github.com/pomodiagbe2200963-dev/WineCultivar_Project_philipOmodiagbe_22CH032051
